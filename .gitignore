@@ -1,6 +1,29 @@
 *.class
 
+target
+
+# get from open clipart
+img
+
+# get jquery and friends from their sites .
+jquery-ui-1.8.19custom
+jquery-1.7.1.js
+jquery-1.7.1.min.js
+jquery.flip.min.js
+
+# editor backup files
+*~
+
+# I keep my 
+wip
+
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# eclipse settings
+.classpath
+.project
+.settings
+

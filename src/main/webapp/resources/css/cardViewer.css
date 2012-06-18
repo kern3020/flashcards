@@ -1,0 +1,41 @@
+body {
+	background-color: #99FF88;
+}
+
+h1 {
+	text-align: center;
+}
+
+#container {
+	text-align:center;
+	width: 75%;
+	margin: 125px;
+}
+
+#deck_title {
+	color: black;
+	font-family: Tahoma, Helvetica;
+	font-size: 2em;
+	margin: 25px;
+}
+
+#previous,#flipit,#next {
+	text-decoration: none;
+}
+
+
+
+#flipbox {	
+	color: black;
+	font-family: Tahoma, Helvetica;
+	font-size: 1.5em;
+	display: inline;
+}
+
+#nav_buttons {
+
+}
+footer {
+	text-align: right;
+	margin: 50px; 
+}

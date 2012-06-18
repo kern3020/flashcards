@@ -1,0 +1,14 @@
+body {
+	background: lightgreen; 
+	width: 720px;
+	margin: 0 auto;
+}
+	
+ul { 
+	list-style-type: none;
+	padding: 25px; 
+	margin: 25px;
+}
+li.even { background: lightGoldenrodYellow; }
+li.odd { background: lightCyan; }
+
