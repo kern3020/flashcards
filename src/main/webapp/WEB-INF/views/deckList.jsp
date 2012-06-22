@@ -7,9 +7,16 @@
 	<title>Flashcards, Set 1</title>
 </head>
 <body>
+<div id="container" >
 <h1>
-	  Flashcards, Set 1
+	  Flashcards, Brazilian Portuguese Set 1
 </h1>
+<p class="intro">
+Speak Portuguese with confidence both socially & professionally.
+</p>
+<p class="intro">
+Mastering verb conjugation is often the biggest challenge for students of Portuguese. This simple-to-use web app helps you practice verb conjugation while building vocabulary and improving your command of gender, articles, and prepositions.
+</p>
 <ul>
 	<c:forEach var="d" items="${decks}" varStatus="loopStatus" >
 	
@@ -29,8 +36,8 @@
     	 <A HREF="http://www.facebook.com/pages/Street-Smart-Brazil/50113404491"><img src="resources/img/facebook.jpg" /></A>
     	 </P>
  	</NAV>
- 	<P>Copyright © 2012 John Kern and Street Smart Brazil</P>
+ 	<P id="copyright" >Copyright © 2012 John Kern and Street Smart Brazil</P>
 </FOOTER>
-
+</div>
 </body>
 </html>

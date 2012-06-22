@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pontecultural</groupId>
 	<artifactId>flashcards</artifactId>
-	<name>abc</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
@@ -201,4 +200,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<name>flashcards</name>
 </project>

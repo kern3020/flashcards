@@ -21,7 +21,7 @@
 		<div id="deck_title">
 	  		${deckname}
 		</div>
-		<br/>
+		
 		<a id="flipit" href="">
         	<div id="flipbox">
         	</div>
@@ -40,13 +40,13 @@
 		</div>
 	<FOOTER> <!-- site wide footer -->
 	<NAV>
-  		<P> 
+  		<P id="social"> 
 		<a href="https://twitter.com/stsmartbrazil" ><img src="resources/img/twitter-32x32.png" /></a>
 		<a href="http://www.youtube.com/user/StreetSmartBrazil" ><img src="resources/img/youtube_32x32.png" /></a> 
     	 <A HREF="http://www.facebook.com/pages/Street-Smart-Brazil/50113404491"><img src="resources/img/facebook.jpg" /></A>
     	 </P>
  	</NAV>
- 	<P>Copyright © 2012 John Kern and Street Smart Brazil</P>
+ 	<P id="copyright" >Copyright © 2012 John Kern and Street Smart Brazil</P>
 	</FOOTER>
 	</div>
 	
